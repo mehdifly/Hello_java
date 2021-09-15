@@ -4,7 +4,7 @@ public class zdddd {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-      System.out.println("sdsddcccs");
+      System.out.println("sdsdcccs");
 	}
 
 }
